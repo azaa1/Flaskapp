@@ -1,4 +1,4 @@
 # Flaskapp
-Sample python (Flask) app
+Sample Flask Application
 
-![Alt text](img/Flask.png?raw=true "Title")![Alt text](img/python.png?raw=true "Title")
+![Alt text](img/flaskpython.png?raw=true "Title")
