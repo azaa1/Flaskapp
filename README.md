@@ -1,2 +1,2 @@
-# flaskapp
+# Flaskapp
 Sample python (Flask) app
