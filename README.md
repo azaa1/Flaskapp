@@ -44,7 +44,7 @@ export FLASK_APP=hello.py
 ```
 flask run --host=0.0.0.0
 ```
-4. Open the browser, enter your host's (public) and application port
+4. Open the browser, enter your host's (public) IP and application port
 ```
  IP:5000
 ```
