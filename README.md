@@ -53,12 +53,12 @@ flask run --host=0.0.0.0
 
 The purpose of this project is to introduce Software Engineers to App Development with Flask and Python. 
 
-## Link to Official Documentations
+## Official Documentations
 
-Python : https://www.python.org/about/apps/
+[Python](https://www.python.org/about/apps/)
 
-Flask : https://flask.palletsprojects.com/en/1.1.x/
+[Flask](https://flask.palletsprojects.com/en/1.1.x/)
 
-JinJa : https://jinja.palletsprojects.com/en/2.11.x/
+[JinJa](https://jinja.palletsprojects.com/en/2.11.x/)
 
-Werkzeug : https://werkzeug.palletsprojects.com/en/1.0.x/
+[Werkzeug](https://werkzeug.palletsprojects.com/en/1.0.x/)
