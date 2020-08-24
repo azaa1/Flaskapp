@@ -33,12 +33,15 @@ pip3 install Flask
 ## Run Application 
 
 1. Change Directory to application folder you want to run. 
+
+Example : [hello](hello)
+
 ```
 cd hello
 ```
 2. Set an environment variable to be exported to child-process.
 ```
-export FLASK_APP=hello.py
+export FLASK_APP=app.py
 ``` 
 3. Run the application and exposes externally.
 ```
